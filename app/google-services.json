@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "579399999673",
+    "project_id": "green-5607a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579399999673:android:f53e513ca51044a2",
+        "android_client_info": {
+          "package_name": "com.structure.greenboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7f3hqCfCjH_x3WGU2R1GpxoDqkUSLfGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
