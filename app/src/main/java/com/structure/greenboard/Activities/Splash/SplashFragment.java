@@ -150,7 +150,7 @@ public class SplashFragment extends BaseFragment implements NotifyGcmRegId {
             helper.registerGcmToServer(parameters);
         }
         if (status == 0) {
-            Toast.makeText(getContext(), "Gcm Registration Failed", Toast.LENGTH_LONG).show();
+            Toast.makeText(MyApplication.getAppContext(), "Gcm Registration Failed", Toast.LENGTH_LONG).show();
         }
     }
 }

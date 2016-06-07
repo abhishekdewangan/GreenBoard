@@ -1,20 +1,33 @@
 {
   "project_info": {
-    "project_number": "579399999673",
-    "project_id": "green-5607a"
+    "project_number": "950580414421",
+    "project_id": "greenborad"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:579399999673:android:f53e513ca51044a2",
+        "mobilesdk_app_id": "1:950580414421:android:f53e513ca51044a2",
         "android_client_info": {
           "package_name": "com.structure.greenboard"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "950580414421-b8m3rtcm5spifd6g6le7al6djkit29ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.structure.greenboard",
+            "certificate_hash": "DC92819E1688BF52E0B3598EE527D83A7FD9F50A"
+          }
+        },
+        {
+          "client_id": "950580414421-7q6g799gp59n9ehqvi1sfilgnkivt522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7f3hqCfCjH_x3WGU2R1GpxoDqkUSLfGY"
+          "current_key": "AIzaSyB9eyTYRCjabOw9Bk_6cxHjkKhXAIHtPBI"
         }
       ],
       "services": {

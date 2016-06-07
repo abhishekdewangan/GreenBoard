@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GreenBoard</string>
     <string name="defaultREgId">621898114674</string>
+    <string name="server_client_id">950580414421-7q6g799gp59n9ehqvi1sfilgnkivt522.apps.googleusercontent.com</string>
 </resources>
